@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Indie Flower:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comic Neue:wght@400&display=swap" />
+  <link rel="stylesheet" href="css/styleNav.css" />
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+  <title>BonVoyage</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="navBar">
+      <div id="container">
+        <button class="menu">Menu</button>
+      </div>
+
+      <div class="heading">
+        <h1>BonVoyage</h1>
+      </div>
+
+      <div>
+        <button class="avatar">Back</button>
+      </div>
+    </div>
+
+    <div class="footer">
+      <button class="go">Let's Walk</button>
+    </div>
+
+    <div id="map"></div>
+    <div class="placard">
+      <div class="button-group">
+        <button class="card-button" id="exitBtn"></button>
+        <button class="card-button" id="dummyBtn"></button>
+        <button class="card-button" id="maximizeBtn"></button>
+      </div>
+      <div class="top-section">
+        <div class="name-section">
+        </div>
+        <div class="picture-section">
+        </div>
+      </div>
+      <div class="bottom-section">
+        <div class="info">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Include the Google Maps JavaScript API -->
+  <script src="js/choice.js"></script>
+  <script src="js/menu.js"></script>
+  <script src="js/map.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY_PLACEHOLDER&callback=initMap"
+    async defer></script>
+</body>
+
+</html>

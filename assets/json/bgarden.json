@@ -1,0 +1,272 @@
+[
+    {
+        "_id": 1,
+        "category": "Wildlife",
+        "description": {
+            "name": "Zebra",
+            "className": "Mammal",
+            "scientificName": "Equus zebra",
+            "age": 6,
+            "gender": "male"
+        },
+        "location": {
+            "latitude": 22.535464,
+            "longitude": 88.332762,
+            "iconType": "zebra"
+        }
+    },
+    {
+        "_id": 2,
+        "category": "Wildlife",
+        "description": {
+            "name": "Bear",
+            "className": "Mammal",
+            "scientificName": "Melursus ursinus",
+            "age": 14,
+            "gender": "female"
+        },
+        "location": {
+            "latitude": 22.534778,
+            "longitude": 88.332742,
+            "iconType": "bear"
+        }
+    },
+    {
+        "_id": 3,
+        "category": "Wildlife",
+        "description": {
+            "name": "Deer",
+            "className": "Mammal",
+            "scientificName": "Axis axis",
+            "age": 8,
+            "gender": "male"
+        },
+        "location": {
+            "latitude": 22.534272,
+            "longitude": 88.331402,
+            "iconType": "deer"
+        }
+    },
+    {
+        "_id": 4,
+        "category": "Wildlife",
+        "description": {
+            "name": "Leopard",
+            "className": "Mammal",
+            "scientificName": "Panthera pardus fusca",
+            "age": 13,
+            "gender": "male"
+        },
+        "location": {
+            "latitude":  22.537222,
+            "longitude": 88.331215,
+            "iconType": "leopard"
+        }
+    },
+    {
+        "_id": 5,
+        "category": "Wildlife",
+        "description": {
+            "name": "Bengal Tiger",
+            "className": "Mammal",
+            "scientificName": "Panthera tigris",
+            "age": 12,
+            "gender": "female"
+        },
+        "location": {
+            "latitude":  22.537157,
+            "longitude": 88.33254,
+            "iconType": "tiger"
+        }
+    },
+    {
+        "_id": 6,
+        "category": "Wildlife",
+        "description": {
+            "name": "Asiatic Lion",
+            "className": "Mammal",
+            "scientificName": " Panthera leo",
+            "age": 11,
+            "gender": "male"
+        },
+        "location": {
+            "latitude": 22.538995,
+            "longitude": 88.332555,
+            "iconType": "lion"
+        }
+    },
+    {
+        "_id": 7,
+        "category": "Wildlife",
+        "description": {
+            "name": "Chimpanzee",
+            "className": "Mammal",
+            "scientificName": "Pan troglodytes",
+            "age": 8,
+            "gender": "male"
+        },
+        "location": {
+            "latitude": 22.535804,
+            "longitude": 88.332388,
+            "iconType": "chimpanzee"
+        }
+    },
+    {
+        "_id": 8,
+        "category": "Wildlife",
+        "description": {
+            "name": "Giraffe",
+            "className": "Mammal",
+            "scientificName": "Giraffa camelopardalis",
+            "age": 15,
+            "gender": "female"
+        },
+        "location": {
+            "latitude": 22.538161,
+            "longitude": 88.332239,
+            "iconType": "giraffe"
+        }
+    },
+    {
+        "_id": 9,
+        "category": "ATM",
+        "description": {
+            "name": "Canara Bank ATM"
+        },
+        "location": {
+            "latitude": 22.533224,
+            "longitude": 88.331067,
+            "iconType": "bank"
+        }
+    },
+    {
+        "_id": 10,
+        "category": "ATM",
+        "description": {
+            "name": "ICICI Bank ATM"
+        },
+        "location": {
+            "latitude":  22.533168,
+            "longitude": 88.329465,
+            "iconType": "bank"
+        }
+    },
+    {
+        "_id": 11,
+        "category": "Toilet",
+        "description": {
+            "name": "Sulabh Sauchalay",
+            "male": true,
+            "female": true
+        },
+        "location": {
+            "latitude": 22.540415,
+            "longitude": 88.330552,
+            "iconType": "toilet"
+        }
+    },
+    {
+        "_id": 12,
+        "category": "Toilet",
+        "description": {
+            "name": "Ladies Toilet",
+            "male": false,
+            "female": true
+        },
+        "location": {
+            "latitude": 22.533215,
+            "longitude":88.330867,
+            "iconType": "toilet"
+        }
+    },
+    {
+        "_id": 13,
+        "category": "Toilet",
+        "description": {
+            "name": "Unisex Toilet",
+            "male": true,
+            "female": true
+        },
+        "location": {
+            "latitude":  22.53707,
+            "longitude": 88.333277,
+            "iconType": "toilet"
+        }
+    },
+    {
+        "_id": 14,
+        "category": "Toilet",
+        "description": {
+            "name": "Gents Toilet",
+            "male": true,
+            "female": false
+        },
+        "location": {
+            "latitude": 22.537078,
+            "longitude": 88.33336,
+            "iconType": "toilet"
+        }
+    },
+    {
+        "_id": 15,
+        "category": "Administrative",
+        "description": {
+            "name": "Ticket Counter"
+        },
+        "location": {
+            "latitude":  22.53609,
+            "longitude": 88.333265,
+            "iconType": "admin"
+        }
+    },
+    {
+        "_id": 16,
+        "category": "Administrative",
+        "description": {
+            "name": "Nature Information Centre"
+        },
+        "location": {
+            "latitude":  22.537782,
+            "longitude": 88.330746,
+            "iconType": "admin"
+        }
+    },
+    {
+        "_id": 17,
+        "category": "Administrative",
+        "description": {
+            "name": "Senapati Bhavan"
+        },
+        "location": {
+            "latitude": 22.533248,
+            "longitude": 88.330732,
+            "iconType": "admin"
+        }
+    },
+    {
+        "_id": 18,
+        "category": "Food",
+        "description": {
+            "name": "Food Park",
+            "vegetarian": false
+        },
+        "location": {
+            "latitude": 22.535803,
+            "longitude": 88.332496,
+            "iconType": "food"
+        }
+    },
+    {
+        "_id": 19,
+        "category": "Food",
+        "description": {
+            "name": "Heritage Cafe Scoop",
+            "vegetarian": true
+        },
+        "location": {
+            "latitude": 22.536406,
+            "longitude": 88.333156,
+            "iconType": "food"
+        }
+    }
+]

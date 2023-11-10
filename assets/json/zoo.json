@@ -1,0 +1,375 @@
+[
+  {
+    "_id": 1,
+    "category": "Wildlife",
+    "description": {
+      "name": "Zebra",
+      "className": "Family Name: Equidae",
+      "scientificName": "Scientific Name: Equus spp"
+    },
+    "link": "https://en.wikipedia.org/wiki/Zebra",
+    "info": {
+      "About": "Zebras are African equids known for their distinctive black-and-white striped coats. They are herbivores, live in social groups called harems, and use their stripes for camouflage and to confuse predators."
+    },
+    "img": "https://images.unsplash.com/photo-1526095179574-86e545346ae6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": {
+      "latitude": 22.535464,
+      "longitude": 88.332762,
+      "iconType": "zebra"
+    }
+  },
+  {
+    "_id": 2,
+    "category": "Wildlife",
+    "description": {
+        "name": "Bear",
+        "className": "Family Name: Ursus americanus",
+        "scientificName": "Scientific Name: Ursus spp"
+    },
+    "link": "https://en.wikipedia.org/wiki/Bear",
+    "info": {
+      "About": "Bears are large mammals found across North America, Europe, and Asia. They have a stocky build, sharp claws, and a keen sense of smell. They vary in size and diet, with species such as the polar bear, grizzly bear, and panda bear occupying different habitats and exhibiting distinct behaviors."
+    },
+    "img": "https://kolkatazoo.in/new/admins_zooo/s_file/temp/croppedImg_347586701.jpeg",
+    "location": {
+      "latitude": 22.534778,
+      "longitude": 88.332742,
+      "iconType": "bear"
+    }
+  },
+  {
+    "_id": 3,
+    "category": "Wildlife",
+    "description": {
+        "name": "Deer",
+        "className": "Family Name: Cervidae",
+        "scientificName": "Scientific Name: Odocoileu virginius"
+    },
+    "link": "https://en.wikipedia.org/wiki/Deer",
+    "info": {
+      "About": "Deer are graceful herbivorous mammals found worldwide, typically inhabiting forests and grasslands. They are known for their antlers (found in males) and their swift running ability. They play important ecological roles and are often sought after by hunters."
+    },
+    "img": "https://kolkatazoo.in/new/admins_zooo/s_file/temp/croppedImg_2108144803.jpeg",
+    "location": {
+      "latitude": 22.534272,
+      "longitude": 88.331402,
+      "iconType": "deer"
+    }
+  },
+  {
+    "_id": 4,
+    "category": "Wildlife",
+    "description": {
+        "name": "Leopard",
+        "className": "Family Name: Felidae",
+        "scientificName": "Scientific Name: Panthera pardus"
+    },
+    "link": "https://en.wikipedia.org/wiki/Leopard",
+    "info": {
+      "about": "Leopards are agile and stealthy big cats found across Africa and Asia. They have distinctive rosette patterns on their fur, allowing them to blend into their surroundings. They are powerful predators known for their ability to climb trees."
+    },
+    "img": "https://images.unsplash.com/photo-1624958319297-d1aa3a41378e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": {
+      "latitude": 22.537222,
+      "longitude": 88.331215,
+      "iconType": "leopard"
+    }
+  },
+  {
+    "_id": 5,
+    "category": "Wildlife",
+    "description": {
+        "name": "Bengal Tiger",
+        "className": "Family Name: Felidae",
+        "scientificName": "Scientific Name: Panthera tigris"
+    },
+    "link": "https://en.wikipedia.org/wiki/Bengal_tiger",
+    "info": {
+      "about": "Bengal tigers are majestic big cats found primarily in India and Bangladesh. They are known for their striking orange coats with black stripes and are one of the largest tiger species. They are endangered, with a population of around 2,500 individuals."
+    },
+    "img": "https://kolkatazoo.in/new/admins_zooo/s_file/temp/croppedImg_1802266901.jpeg",
+    "location": {
+      "latitude": 22.537157,
+      "longitude": 88.33254,
+      "iconType": "tiger"
+    }
+  },
+  {
+    "_id": 6,
+    "category": "Wildlife",
+    "description": {
+        "name": "Asiatic Lion",
+        "className": "Family Name: Felidae",
+        "scientificName": "Scientific Name: Panthera leo"
+    },
+    "link": "https://en.wikipedia.org/wiki/Asiatic_lion",
+    "info": {
+      "about": "Asiatic lions are a subspecies of lions found in the Gir Forest of India. They are smaller than African lions, with a distinctive fold of skin along their bellies. They are critically endangered, with a population of around 500 individuals."
+    },
+    "img": "https://kolkatazoo.in/new/admins_zooo/s_file/temp/croppedImg_64416794.jpeg",
+    "location": {
+      "latitude": 22.538995,
+      "longitude": 88.332555,
+      "iconType": "lion"
+    }
+  },
+  {
+    "_id": 7,
+    "category": "Wildlife",
+    "description": {
+        "name": "Chimpanzee",
+        "className": "Family Name: Hominidae",
+        "scientificName": "Scientific Name: Pan troglodytes"
+    },
+    "link": "https://en.wikipedia.org/wiki/Chimpanzee",
+    "info": {
+      "about": "Chimpanzees are highly intelligent primates native to Africa. They live in social groups, use tools, and have complex communication skills. They are our closest living relatives, sharing about 98% of our DNA."
+    },
+    "img": "https://images.unsplash.com/photo-1654947889089-904424b1622e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": {
+      "latitude": 22.535804,
+      "longitude": 88.332388,
+      "iconType": "chimpanzee"
+    }
+  },
+  {
+    "_id": 8,
+    "category": "Wildlife",
+    "description": {
+        "name": "Giraffe",
+        "className": "Family Name: Giraffidae",
+        "scientificName": "Scientific Name: Giraffa camelopardalis"
+    },
+    "link": "https://en.wikipedia.org/wiki/Giraffe",
+    "info": {
+      "about": "Giraffes are the world's tallest land animals, known for their long necks, distinctive spotted coats, and towering height. They inhabit savannas and feed on leaves from tall trees using their prehensile tongues."
+    },
+    "img": "https://kolkatazoo.in/new/admins_zooo/s_file/temp/croppedImg_628197604.jpeg",
+    "location": {
+      "latitude": 22.538161,
+      "longitude": 88.332239,
+      "iconType": "giraffe"
+    }
+  },
+  {
+    "_id": 9,
+    "category": "ATM",
+    "description": {
+      "name": "Canara Bank ATM"
+    },
+    "link": "https://canarabank.com/UPLOAD/NewsImage/IOB98419Revised_Daily_Card_TXN_Limit.pdf",
+    "info": {
+      "about": "• Choose well-lit, secure locations.\n• Keep your PIN confidential.\n• Check for tampering.\n• Plan transactions in advance.\n• Be discreet with cash.\n• Monitor account activity.\n• Protect personal information.\n• Use secure ATMs.\n• Report issues promptly.\n• Follow bank instructions for safety.\n"
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipNUkxOoOCkjfYZDM40_wbM-eOrU7aJbI7iT-abS=s1360-w1360-h1020",
+    "location": {
+      "latitude": 22.533224,
+      "longitude": 88.331067,
+      "iconType": "bank"
+    }
+  },
+  {
+    "_id": 10,
+    "category": "ATM",
+    "description": {
+      "name": "ICICI Bank ATM"
+    },
+    "link": "https://www.icicibank.com/personal-banking/insta-banking/atm-banking",
+    "info": {
+      "about": "• Choose well-lit, secure locations.\n• Keep your PIN confidential.\n• Check for tampering.\n• Plan transactions in advance.\n• Be discreet with cash.\n• Monitor account activity.\n• Protect personal information.\n• Use secure ATMs.\n• Report issues promptly.\n• Follow bank instructions for safety.\n"
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipM_1ACHTlV63pqMwgHWWKfaEMEuYU_rUESm4-0j=s1360-w1360-h1020",
+    "location": {
+      "latitude": 22.533168,
+      "longitude": 88.329465,
+      "iconType": "bank"
+    }
+  },
+  {
+    "_id": 11,
+    "category": "Toilet",
+    "description": {
+      "name": "Sulabh Sauchalay"
+    },
+    "link": "",
+    "info": {
+      "about": "Follow these guidelines when using toilets:• Use the flush or pour water to maintain cleanliness.\n• Use toilet paper or water for cleaning.\n• Avoid throwing sanitary products or trash in the toilet.\n• Wash hands thoroughly after use.\n• Respect shared spaces and maintain hygiene."
+    },
+    "img": "https://assets.cntraveller.in/photos/60ba0ab482b06272bc86ba6b/master/pass/public-toilets-1366x768.jpg",
+    "location": {
+      "latitude": 22.540415,
+      "longitude": 88.330552,
+      "iconType": "toilet"
+    }
+  },
+  {
+    "_id": 12,
+    "category": "Toilet",
+    "description": {
+      "name": "Ladies Toilet"
+    },
+    "link": "",
+    "info": {
+      "about": "Follow these guidelines when using toilets:\n• Use the flush or pour water to maintain cleanliness.\n• Use toilet paper or water for cleaning.\n• Avoid throwing sanitary products or trash in the toilet.\n• Wash hands thoroughly after use.\n• Respect shared spaces and maintain hygiene."
+    },
+    "img": "https://assets.cntraveller.in/photos/60ba0ab482b06272bc86ba6b/master/pass/public-toilets-1366x768.jpg",
+    "location": {
+      "latitude": 22.533215,
+      "longitude": 88.330867,
+      "iconType": "toilet"
+    }
+  },
+  {
+    "_id": 13,
+    "category": "Toilet",
+    "description": {
+      "name": "Unisex Toilet"
+    },
+    "link": "",
+    "info": {
+      "about": "Follow these guidelines when using toilets:\n\n• Use the flush or pour water to maintain cleanliness.\n• Use toilet paper or water for cleaning.\n• Avoid throwing sanitary products or trash in the toilet.\n• Wash hands thoroughly after use.\n• Respect shared spaces and maintain hygiene."
+    },
+    "img": "https://assets.cntraveller.in/photos/60ba0ab482b06272bc86ba6b/master/pass/public-toilets-1366x768.jpg",
+    "location": {
+      "latitude": 22.53707,
+      "longitude": 88.333277,
+      "iconType": "toilet"
+    }
+  },
+  {
+    "_id": 14,
+    "category": "Toilet",
+    "description": {
+      "name": "Gents Toilet"
+    },
+    "link": "",
+    "info": {
+      "about": "Follow these guidelines when using toilets:• Use the flush or pour water to maintain cleanliness.\n• Use toilet paper or water for cleaning.\n• Avoid throwing sanitary products or trash in the toilet.\n• Wash hands thoroughly after use.\n• Respect shared spaces and maintain hygiene."
+    },
+    "img": "https://assets.cntraveller.in/photos/60ba0ab482b06272bc86ba6b/master/pass/public-toilets-1366x768.jpg",
+    "location": {
+      "latitude": 22.537078,
+      "longitude": 88.33336,
+      "iconType": "toilet"
+    }
+  },
+  {
+    "_id": 15,
+    "category": "Administrative",
+    "description": {
+      "name": "Ticket Counter"
+    },
+    "link": "https://eticketaliporezoo.com/",
+    "info": {
+      "about": "Call for Assistance : +91-3324791150 / +91-3324399391\nTimings -\nAll days (except Thrusday) - 9:00 am – 4:30 pm\nThursday - Closed / Holiday\n"
+    },
+    "img": " https://akm-img-a-in.tosshub.com/lingo/atbn/images/photo_gallery/202112/whatsapp_image_2021-12-29_at_14.25.49_1.jpeg",
+    "location": {
+      "latitude": 22.53609,
+      "longitude": 88.333265,
+      "iconType": "admin"
+    }
+  },
+  {
+    "_id": 16,
+    "category": "Administrative",
+    "description": {
+      "name": "Nature Information Centre"
+    },
+    "link": "https://eticketaliporezoo.com/guideline-english.jpg",
+    "info": {
+      "about": "Call for Assistance : +91-3324791150\nTimings -\nAll days (except Thrusday) - 9:00 am – 4:30 pm\nThursday - Closed / Holiday\n"
+    },
+    "img": " https://i.ytimg.com/vi/MlbgKvEynM8/maxresdefault.jpg",
+    "location": {
+      "latitude": 22.537782,
+      "longitude": 88.330746,
+      "iconType": "admin"
+    }
+  },
+  {
+    "_id": 17,
+    "category": "Administrative",
+    "description": {
+      "name": "Senapati Bhavan"
+    },
+    "link": "https://eticketaliporezoo.com/guideline-english.jpg",
+    "info": {
+      "about": "Call for Assistance : +91-3324399391\nTimings -\nAll days (except Thrusday) - 9:00 am – 4:30 pm\nThursday - Closed / Holiday\n"
+    },
+    "img": "https://lh5.googleusercontent.com/p/AF1QipNUD7OPXPvNbQioONiJfEIGwUahuoxllMCH8woz=w408-h359-k-no",
+    "location": {
+      "latitude": 22.533248,
+      "longitude": 88.330732,
+      "iconType": "admin"
+    }
+  },
+  {
+    "_id": 18,
+    "category": "Food",
+    "description": {
+      "name": "Food Park"
+    },
+    "link": "",
+    "info": {
+      "about": ""
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipOh-J6s0MMnKtaHFeXukqewscHzLQPJmVA8Mg5g=s680-w680-h510",
+    "location": {
+      "latitude": 22.535803,
+      "longitude": 88.332496,
+      "iconType": "food"
+    }
+  },
+  {
+    "_id": 19,
+    "category": "Food",
+    "description": {
+      "name": "Heritage Cafe Scoop"
+    },
+    "link": "",
+    "info": {
+      "about": ""
+    },
+    "img": "https://content.jdmagicbox.com/comp/serampore/v6/9999pxx33.xx33.210223180219.c1v6/catalogue/heritage-cafe-serampore-serampore-restaurants-aye7sop5t9.jpg",
+    "location": {
+      "latitude": 22.536406,
+      "longitude": 88.333156,
+      "iconType": "food"
+    }
+  },
+  {
+    "_id": 20,
+    "category": "Food",
+    "description": {
+      "name": "The Junction"
+    },
+    "link": "https://www.tajhotels.com/en-in/taj/taj-bengal-kolkata/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://b.zmtcdn.com/data/pictures/1/21471/efb4839fadecee9ada652bdc75112ab9.jpg",
+    "location": {
+      "latitude": 22.53769,
+      "longitude": 88.334453,
+      "iconType": "food"
+    }
+  },
+  {
+    "_id": 21,
+    "category": "Food",
+    "description": {
+      "name": "Flury's"
+    },
+    "link": "https://www.flurys.com/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://b.zmtcdn.com/data/pictures/5/23445/6e52044219f78deaf7d9163d413c58ed.jpg?output-format=webp",
+    "location": {
+      "latitude": 22.532576,
+      "longitude": 88.331777,
+      "iconType": "food"
+    }
+  }
+]

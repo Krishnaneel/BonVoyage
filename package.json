@@ -1,0 +1,19 @@
+{
+  "name": "bonvoyage",
+  "version": "2.0.0",
+  "description": "This is BonVoyage!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "KAM",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node": "18.16.0",
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,492 @@
+[
+  {
+    "_id": 1,
+    "category": "Departments",
+    "description": {
+      "name": "Construction",
+      "founded": "Founded : 1989",
+      "hod": "HOD: Prof. Partha Pratim Biswas"
+    },
+    "link": "https://jadavpuruniversity.in/academics/construction-engineering/",
+    "info": {
+      "about": "The department aims to educate undergraduate students in Construction Management, Plant and Machinery, Concrete Technology, and Repair & Rehabilitation of Structures. It is also evolving into a center for soil, material, and concrete testing."
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipP7H19KceAtT58_rrTSh-w7_e4FUVfgqblbPI0n=s680-w680-h510",
+    "location": {
+      "latitude": 22.561407,
+      "longitude": 88.41277
+    }
+  },
+  {
+    "_id": 2,
+    "category": "Departments",
+    "description": {
+      "name": "IT",
+      "founded": "Founded : 2001",
+      "hod": "HOD: Dr. Parama Bhaumik"
+    },
+    "link": "https://jadavpuruniversity.in/academics/information-technology/",
+    "info": {
+      "about": "The integration of digital communication, networks, and software requires new skills. To meet the growing IT job market, Jadavpur University introduced a program in 2000, which became a department in 2001."
+    },
+    "img": "https://i.ytimg.com/vi/ZABMgoORREA/maxresdefault.jpg",
+    "location": {
+      "latitude": 22.561135,
+      "longitude": 88.413155
+    }
+  },
+  {
+    "_id": 3,
+    "category": "Departments",
+    "description": {
+      "name": "IEE",
+      "founded": "Founded : 1966",
+      "hod": "HOD: Dr. Ratna Ghosh"
+    },
+    "link": "https://jadavpuruniversity.in/academics/instrumentation-and-electronics-engineering/",
+    "info": {
+      "about": "The department operates from the University's Salt Lake campus and offers one undergraduate and one postgraduate course."
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipP7H19KceAtT58_rrTSh-w7_e4FUVfgqblbPI0n=s680-w680-h510",
+    "location": {
+      "latitude": 22.560662,
+      "longitude": 88.412757
+    }
+  },
+  {
+    "_id": 4,
+    "category": "Departments",
+    "description": {
+      "name": "Power",
+      "founded": "Founded : 1989",
+      "hod": "HOD: Dr. Kamal Krishna Mondal"
+    },
+    "link": "https://jadavpuruniversity.in/academics/computer-science-engineering/",
+    "info": {
+      "about": "The undergraduate program covers thermal, hydro, nuclear, and renewable power generation, including a Power Plant Familiarization camp. The postgraduate program offers elective courses in power generation, transmission, and distribution. The undergraduate program is NBA accredited for the academic years 2023-2026."
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipP7H19KceAtT58_rrTSh-w7_e4FUVfgqblbPI0n=s680-w680-h510",
+    "location": {
+      "latitude": 22.560761,
+      "longitude": 88.412455
+    }
+  },
+  {
+    "_id": 5,
+    "category": "Departments",
+    "description": {
+      "name": "Printing",
+      "founded": "Founded : 1988",
+      "hod": "HOD: Prof. Soumen Basak"
+    },
+    "link": "https://jadavpuruniversity.in/academics/printing-engineering/",
+    "info": {
+      "about": "The department offers a Bachelor's in Printing Engineering (25 students/year), an M. Tech. in Printing Engineering and Graphic Communication (10 students/year), and conducts research in printing and packaging, including digital printing and soft computing."
+    },
+    "img": "https://i0.wp.com/www.icareermaker.com/wp-content/uploads/2016/09/JUFETKolkata.jpg",
+    "location": {
+      "latitude": 22.561313,
+      "longitude": 88.412957
+    }
+  },
+  {
+    "_id": 6,
+    "category": "Administration",
+    "description": {
+      "name": "MR Section"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "The main hub for fee payments and inquiries, serving as the primary destination for handling financial matters and obtaining information regarding fees and grade cards"
+    },
+    "img": "https://assets.telegraphindia.com/telegraph/301a2764-ab58-4d8c-927a-6c567d8a9829.jpg",
+    "location": {
+      "latitude": 22.5608,
+      "longitude": 88.413441
+    }
+  },
+  {
+    "_id": 7,
+    "category": "Administration",
+    "description": {
+      "name": "UGC DAE CSR"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://jucse2020.files.wordpress.com/2020/02/6.jpg",
+    "location": {
+      "latitude": 22.5608,
+      "longitude": 88.413441
+    }
+  },
+  {
+    "_id": 8,
+    "category": "Administration",
+    "description": {
+      "name": "HS Office"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "It is responsible for managing and overseeing student accommodations, maintenance, and addressing concerns related to hostel life. Its tasks include room allocation and ensuring a safe and comfortable living environment for residents."
+    },
+    "img": "https://lh5.googleusercontent.com/p/AF1QipOPPUe3dR6GFlqkOqa-ahV12OaXyc_vLxvGaqMI=w750-h563-p-k-no",
+    "location": {
+      "latitude": 22.5608,
+      "longitude": 88.413441
+    }
+  },
+  {
+    "_id": 9,
+    "category": "Hostel",
+    "description": {
+      "name": "Girls' Hostel"
+    },
+    "link": "https://jadavpuruniversity.in/about/facilities/hostel-facilities/",
+    "info": {
+      "about": "Capacity : 40"
+    },
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ47NQ_BhC04IBOcJPyoACfTRJy9ejKL_-ysQ&usqp=CAU",
+    "location": {
+      "latitude": 22.559753,
+      "longitude": 88.412826
+    }
+  },
+  {
+    "_id": 10,
+    "category": "Hostel",
+    "description": {
+      "name": "Boys' Hostel"
+    },
+    "link": "https://jadavpuruniversity.in/about/facilities/hostel-facilities/",
+    "info": {
+      "about": "Capacity : 225"
+    },
+    "img": "https://scontent.fccu16-1.fna.fbcdn.net/v/t31.18172-8/13558594_1189978107721655_1498496607283413519_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=f8N41kWnFY4AX88sG-5&_nc_ht=scontent.fccu16-1.fna&oh=00_AfCKnA5rppx8KehKrgO_JxkTw93IDWJjUhHMiFAtWklQ0Q&oe=64D8D214",
+    "location": {
+      "latitude": 22.562888,
+      "longitude": 88.412246
+    }
+  },
+  {
+    "_id": 11,
+    "category": "Hostel",
+    "description": {
+      "name": "Guest House"
+    },
+    "link": "https://jadavpuruniversity.in/about/facilities/hostel-facilities/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://lh3.googleusercontent.com/pw/AIL4fc-2_5H43B2_edkBfjiJQPlUjH2Q6VEWYJMSdAB_n10hxDJVpYet31gWQsxQEvU9t2Gk6B8GyyY0HHicYKsKJTUW_elWxvqpVglwD9ticXP0INVrUF8oRP8x2eBkHhcXvX41awTis7oTEhFJcgfm5Txu=w1024-h768-s-no?authuser=0",
+    "location": {
+        "latitude": 22.559965,
+        "longitude": 88.413117
+    }
+  },
+  {
+    "_id": 20,
+    "category": "Gates",
+    "description": {
+      "name": "Main Gate"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://pbs.twimg.com/media/E-rXUDWVcAgdjRA?format=jpg&name=4096x4096",
+    "location": {
+      "latitude": 22.560338,
+      "longitude": 88.413661
+    }
+  },
+  {
+    "_id": 21,
+    "category": "Gates",
+    "description": {
+      "name": "Boy's Hostel Gate"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://pbs.twimg.com/media/E-rXUDWVcAgdjRA?format=jpg&name=4096x4096",
+    "location": {
+      "latitude": 22.563154,
+      "longitude": 88.411779
+    }
+  },
+  {
+    "_id": 22,
+    "category": "Gates",
+    "description": {
+      "name": "CAB Gate"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://www.getbengal.com/uploads/story_image/ju_bengali.jpg",
+    "location": {
+      "latitude": 22.561146,
+      "longitude":88.414024
+    }
+  },
+  {
+    "_id": 23,
+    "category": "Gates",
+    "description": {
+      "name": "Girl's Hostel Gate"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://images.news18.com/ibnlive/uploads/2018/07/Jadavpur-University-ranked-76th-in-Asia.jpeg",
+    "location": {
+      "latitude": 22.559822,
+      "longitude": 88.413378
+    }
+  },
+  {
+    "_id": 24,
+    "category": "Gates",
+    "description": {
+      "name": "Gate 5"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://images.news18.com/ibnlive/uploads/2018/07/Jadavpur-University-ranked-76th-in-Asia.jpeg",
+    "location": {
+      "latitude": 22.560883,
+      "longitude": 88.41393
+    }
+  },
+  {
+    "_id": 16,
+    "category": "Sports",
+    "description": {
+      "name": "CAB"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Welcome to CAB, the cricket mecca on our campus! Free Ranji matches, hobnobbing with cricket demigods like Virat Kohli - it's a stadium of dreams. Need a dose of post-CIIPPUS madness? CAB's gotcha covered, with more addas than a chai shop and whole nighters crazier than a spin bowler's googly!"
+    },
+    "img": "",
+    "location": {
+      "latitude": 22.562277,
+      "longitude": 88.413539
+    }
+  },
+  {
+    "_id": 17,
+    "category": "Sports",
+    "description": {
+      "name": "JUSL Ground"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Step into JUSL, the ultimate playground fiesta on campus! It's the Colosseum of versatility, hosting CIIPPUS, U-Turn shenanigans, and Arena showdowns. More action-packed than a Bollywood blockbuster, and a crowd roar louder than a lion's belch - this ground is where champions are made, dreams are played, and gravity sometimes takes a coffee break!"
+    },
+    "img": "https://www.dsarchitects.in/images/project_details/small/ju_oat.jpg",
+    "location": {
+      "latitude": 22.562538,
+      "longitude": 88.413062
+    }
+  },
+  {
+    "_id": 18,
+    "category": "Sports",
+    "description": {
+      "name": "Volleyball Court"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Step into our volleyball vortex, where spiking balls is more exhilarating than a rollercoaster ride! It's a court where high-fives fly higher than the balls, and dives are more dramatic than a soap opera plot twist. The only thing setting faster than our serves? Our attempts at post-game victory cartwheels!  "
+    },
+    "img": "https://pbs.twimg.com/media/FWhvV2uacAATc_S.jpg",
+    "location": {
+      "latitude": 22.562924,
+      "longitude": 88.412121
+    }
+  },
+  {
+    "_id": 19,
+    "category": "Sports",
+    "description": {
+      "name": "Basketball Court"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Welcome to the hoop haven, where basketball dreams take flight like pigeons chasing a French fry truck! Our court is where gravity gets schooled and slam dunks are more common than 'reply all' emails. Step onto the court, and you might just discover your inner LeBron—or at least, your ability to hit the backboard...sometimes! "
+    },
+    "img": "https://lh4.googleusercontent.com/-E1jMKOjqbX0/WLQz0vJLJHI/AAAAAAAAIoI/YyrYJ-OjgkYN3GHr5Xoy3fJmoj95Z43PgCLIB/photo.jpg",
+    "location": {
+      "latitude": 22.562373,
+      "longitude": 88.412422
+    }
+  },
+  {
+    "_id":12,
+    "category": "Canteen",
+    "description": {
+      "name": "Kartick Da'r Canteen"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Hungry for happiness? Kartick Da'r Canteen is your munchies mecca! Taste buds, prepare for liftoff with fresh, wallet-friendly delights, seasoned generously with Kartick Da'r wit. To top it off, sway to Anupam Roy's mellow beats, and let the good food and great vibes serenade your senses. It's a treat for your taste buds and your funny bone!"
+    },
+    "img": "https://img.restaurantguru.com/r988-Milan-Das-Canteen-Alapan-facade.jpg",
+    "location": {
+      "latitude": 22.560684,
+      "longitude": 88.413062
+    }
+  },
+  {
+    "_id": 13,
+    "category": "Canteen",
+    "description": {
+      "name": "AC canteen"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Used as a Landmark."
+    },
+    "img": "https://10619-2.s.cdn12.com/rests/original/102_507777150.jpg",
+    "location": {
+      "latitude": 22.561276,
+      "longitude": 88.412619
+    }
+  },
+  {
+    "_id": 14,
+    "category": "Canteen",
+    "description": {
+      "name": "Boudi'r Dokan"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Welcome to Boudir Dokan, where addas and puffs are the main event! When the mess is off-duty, we're your delicious backup plan. It's the spot where conversations sizzle hotter than our puffs, and laughter flows smoother than chai. So, when hunger strikes and camaraderie calls, remember, Boudir Dokan is your culinary confidante!"
+    },
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ahar_Canteen_-_Jadavpur_University_-_Kolkata_2015-01-08_2404.JPG/2560px-Ahar_Canteen_-_Jadavpur_University_-_Kolkata_2015-01-08_2404.JPG",
+    "location": {
+      "latitude": 22.560393,
+      "longitude": 88.413805
+    }
+  },
+  {
+    "_id": 15,
+    "category": "Canteen",
+    "description": {
+      "name": "Ganesh Da'r Canteen"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Welcome to Ganesh Da'r Canteen, where hostellers find a taste of home! As the sun sets, our doors swing open, unleashing a comforting aroma of homely goodness. It's more than a canteen; it's a hug in the form of a meal. Come home to Ganesh Da'r, where every bite whispers, - You're family now."
+    },
+    "img": "https://lh3.googleusercontent.com/p/AF1QipNmi_5PX4c0V8Zpzy3nUKHT9IIkuikOFZWWdRsv=s680-w680-h510",
+    "location": {
+      "latitude": 22.562824,
+      "longitude": 88.412702
+    }
+  },
+  {
+    "_id": 25,
+    "category": "Misc",
+    "description": {
+      "name": "JUSL Library"
+    },
+    "link": "https://jadavpuruniversity.in/about/facilities/library/",
+    "info": {
+      "about": "Welcome to the JUSL Library, where silence whispers the secrets of success! Dive into a world of knowledge with cutting-edge computer centers, cozy reading nooks, and a treasure trove of e-Journals and magazines. It's a haven for scholars and lovebirds alike, where wisdom intertwines with romance!"
+    },
+    "img": "https://jadavpuruniversity.in/storage/2023/03/entrance.jpg",
+    "location": {
+      "latitude": 22.560902,
+      "longitude":88.41224
+    }
+  },
+  {
+    "_id": 26,
+    "category": "Misc",
+    "description": {
+      "name": "Common Room"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Welcome to the Common Room - where stress meets its match! Grab a paddle for carrom, spin a table tennis match, deal the cards or make strategic moves in chess, and let loose with jamming sessions. It's the ultimate after-class sanctuary, where good company and great games kick the stress out the door."
+    },
+    "img": "https://i.pinimg.com/736x/a6/ca/20/a6ca204f116b584a7b334b53e7b522ff.jpg",
+    "location": {
+      "latitude": 22.560688,
+      "longitude": 88.412852
+    }
+  },
+  {
+    "_id": 27,
+    "category": "Misc",
+    "description": {
+      "name": "SMCC"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "Behold the SMCC building, with two floors dedicated to IT, including a Power lab and a top-floor CS haven for hackathons and code wizards, SMCC is where innovation meets infrastructure, and future coders make their mark!"
+    },
+    "img": "https://jadavpuruniversity.in/storage/2023/03/entrance.jpg",
+    "location": {
+      "latitude":  22.560244,
+      "longitude": 88.412598
+    }
+  },
+  {
+    "_id": 28,
+    "category": "Misc",
+    "description": {
+      "name": "Doctor's Chamber"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "In need of care? Visit our doctor's chamber. Your health, our priority. Expertise meets compassion."
+    },
+    "img": "https://jadavpuruniversity.in/storage/2023/03/entrance.jpg",
+    "location": {
+      "latitude":  22.563354,
+      "longitude": 88.41226
+    }
+  },
+  {
+    "_id": 29,
+    "category": "Misc",
+    "description": {
+      "name": "Amenities Center"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": ""
+    },
+    "img": "https://jadavpuruniversity.in/storage/2023/03/entrance.jpg",
+    "location": {
+      "latitude": 22.561604,
+      "longitude": 88.412145
+    }
+  },
+  {
+    "_id": 30,
+    "category": "Misc",
+    "description": {
+      "name": "ATM"
+    },
+    "link": "https://jadavpuruniversity.in/",
+    "info": {
+      "about": "The ATM comes handy since the college fees is taken via cash only."
+    },
+    "img": "https://jadavpuruniversity.in/storage/2023/03/entrance.jpg",
+    "location": {
+      "latitude": 22.560906,
+      "longitude":88.413512
+    }
+  }
+]

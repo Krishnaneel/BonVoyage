@@ -1,0 +1,329 @@
+/* Navbar styles */
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --font-comic-neue: "Comic Neue";
+  --font-indie-flower: "Indie Flower";
+
+  /* font sizes */
+  --font-size-large: 10.5rem;
+  --font-size-medium: 3.25rem;
+  --font-size-mediumSmall: 2.5rem;
+  --font-size-small: 1.5rem;
+  --font-size-smallgo: 1.9rem;
+
+  --font-size-large: 10.5rem;
+  --font-size-mediumMob: 5rem;
+  --font-size-mediumSmallMob: 1rem;
+  --font-size-smallMob: 1rem;
+  --font-size-smallgo: 1.9rem;
+
+  --font-size-large: 10.5rem;
+  --font-size-mediumTab: 10rem;
+  --font-size-mediumSmallTab: 2.2rem;
+  --font-size-smallTab: 2.2rem;
+  --font-size-smallgoTab: 2.6rem;
+
+  /* Colors */
+  --color-slateblue: #1d40b9;
+  --color-gray-100: rgba(255, 255, 255, 0.4);
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-6xs: 0.44rem;
+  --padding-3xs: 0.63rem;
+  --padding-2xs: 0.69rem;
+
+  /* border radiuses */
+  --br-xl: 5px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Container styles */
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden;
+  background-color: #ffffe0;
+  padding: 0.0781rem;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.navBar {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  top: 0.625rem;
+  width: 100%;
+}
+
+/* Button styles */
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #ffffe0;
+  cursor: pointer;
+}
+
+/* Go button styles */
+.goButton {
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: green;
+}
+
+.go {
+  padding: 10px 20px;
+  border-radius: 5px;
+  height: 5rem;
+  width: 15rem;
+  border: 0.125rem solid green;
+  color: green;
+  font-family: var(--font-comic-neue);
+  background-color: #ffffe0;
+  cursor: pointer;
+  font-size: var(--font-size-smallgo);
+}
+
+.go:hover {
+  border-color: green;
+  box-shadow: 0 0 0.625rem green;
+}
+
+/* Homepage Let's Go button styles */
+.letsGoButton {
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: green;
+}
+
+.letsGo {
+  padding: 10px 20px;
+  border-radius: 5px;
+  height: 5rem;
+  width: 15rem;
+  border: 0.125rem solid green;
+  color: green;
+  font-family: var(--font-comic-neue);
+  background-color: #ffffe0;
+  cursor: pointer;
+  font-size: var(--font-size-smallgo);
+}
+
+.letsGo:hover {
+  border-color: black;
+  color: black;
+  background-color: #AFE1AF;
+}
+
+/* Sign Up and Sign In button styles */
+.signUp,
+.signIn {
+  color: red;
+  border: 0.125rem solid red;
+  padding: 0.625rem 1.25rem;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  margin: 0.625rem 0.625rem;
+  font-family: var(--font-comic-neue);
+  font-size: var(--font-size-small);
+  border-radius: 1;
+}
+
+.signUp:hover,
+.signIn:hover {
+  border-color: #ff0000;
+  box-shadow: 0 0 0.625rem #ff0000;
+}
+
+/* Heading styles */
+.heading {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 1.125rem;
+  /* Adjust the margin as needed */
+}
+
+.heading h1 {
+  font-family: var(--font-indie-flower);
+  font-size: var(--font-size-large);
+}
+
+/* SearchBox styles */
+.searchBox {
+  justify-content: center;
+  text-align: center;
+  /* Horizontally center the content */
+  align-items: center;
+  /* Vertically center the content */
+  margin-bottom: 2rem;
+}
+
+option {
+  text-align: center;
+  font-family: var(--font-comic-neue);
+}
+
+.dropdownPlaces {
+  /* Adjust the width as needed */
+  padding: 0.625rem;
+  width: 60rem;
+  height: 5rem;
+  border: 0.0625 solid grey;
+  border-radius: var(--br-xl);
+  background-color: white;
+  font-family: var(--font-comic-neue);
+  font-size: var(--font-size-mediumSmall);
+  outline: none;
+  /* Remove the default outline */
+  cursor: pointer;
+  color: grey;
+  text-align: center;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.dropdownPlaces:hover {
+  border-color: #808080;
+  box-shadow: 0 0 5px #808080;
+}
+
+/* Footer styles */
+.footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #ffffe0;
+  text-align: center;
+  margin-top: auto;
+  padding: 0.625rem;
+  font-family: var(--font-comic-neue);
+  font-size: var(--font-size-small);
+}
+
+/* Mobile Styles */
+@media (max-width: 767px) {
+  .heading h1 {
+    font-size: 4rem;
+  }
+
+  .dropdownPlaces {
+    /* Adjust the width as needed */
+    padding: 0.2rem;
+    width: 20rem;
+    height: 3rem;
+    border: 0.02 solid grey;
+    border-radius: var(--br-xl);
+    background-color: white;
+    font-family: var(--font-comic-neue);
+    font-size: var(--font-size-mediumSmallMob);
+    outline: none;
+    /* Remove the default outline */
+    cursor: pointer;
+    color: grey;
+    text-align: center;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
+
+  .option {
+    font-size: 5rem;
+  }
+
+  .signIn {
+    font-size: var(--font-size-smallMob);
+    border: 0.125rem solid red;
+  }
+
+  .signUp {
+    font-size: var(--font-size-smallMob);
+    border: 0.125rem solid red;
+  }
+
+  .letsGo {
+    height: 3rem;
+    width: 10rem;
+    padding: 5px 10px;
+  }
+
+  .searchBox {
+    margin-bottom: 3rem;
+  }
+
+  .footer {
+    font-size: 0.9rem;
+  }
+
+  .heading {
+    margin-top: 12rem;
+  }
+}
+
+/* Tablet */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .heading h1 {
+    font-size: var(--font-size-mediumTab);
+  }
+
+  .dropdownPlaces {
+    /* Adjust the width as needed */
+    padding: 0.2rem;
+    width: 41rem;
+    height: 6.1rem;
+    border: 0.02 solid grey;
+    border-radius: var(--br-xl);
+    background-color: white;
+    font-family: var(--font-comic-neue);
+    font-size: var(--font-size-mediumSmallTab);
+    outline: none;
+    cursor: pointer;
+    color: grey;
+    text-align: center;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
+
+  .signIn {
+    font-size: var(--font-size-smallTab);
+    border: 0.125rem solid red;
+  }
+
+  .signUp {
+    font-size: var(--font-size-smallTab);
+    border: 0.125rem solid red;
+  }
+
+  .letsGo {
+    height: 6rem;
+    width: 22rem;
+    padding: 5px 10px;
+    font-size: var(--font-size-smallgoTab);
+  }
+
+  .searchBox {
+    margin-bottom: 6rem;
+  }
+
+  .footer {
+    font-size: 1.5rem;
+  }
+
+  .heading {
+    margin-top: 13em;
+  }
+}
